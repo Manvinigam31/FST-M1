@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SeleniumTestNGProject" parallel="classes">
+    <test name="testngTest">
+        <classes>
+            <class name="SeleniumProject.SeleniumActivites_Activity1" />
+            <class name="SeleniumProject.SeleniumActivities_Activity2" />
+            <class name="SeleniumProject.SeleniumActivities_Activity3" />
+            <class name="SeleniumProject.SeleniumActivities_Activity4" />
+            <class name="SeleniumProject.SeleniumActivities_Activity5" />
+            <class name="SeleniumProject.SeleniumActivities_Activity6" />
+            <class name="SeleniumProject.SeleniumActivities_Activity7" />
+            <class name="SeleniumProject.SeleniumActivities_Activity8" />
+            <class name="SeleniumProject.SeleniumActivities_Activity9" />
+
+
+        </classes>
+    </test>
+</suite>
